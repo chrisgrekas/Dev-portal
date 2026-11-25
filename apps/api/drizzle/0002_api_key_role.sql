@@ -1,0 +1,1 @@
+ALTER TABLE "api_keys" ADD COLUMN "role" "role" DEFAULT 'viewer' NOT NULL;
